@@ -1,4 +1,5 @@
-<img width="197" alt="image" src="https://github.com/user-attachments/assets/3edafa23-6cf1-4855-be5e-57fb67bf21f2">
+![Screenshot 2024-09-05 011239](https://github.com/user-attachments/assets/254fe5f1-2c23-471f-9732-3419c96c1924)
+
 
 
 This repository contains an Excel-based **Sales Analysis** Dashboard that provides insights into sales, profit, and customer segmentation across various dimensions. The analysis includes key performance metrics that help in understanding business trends and opportunities for growth.
