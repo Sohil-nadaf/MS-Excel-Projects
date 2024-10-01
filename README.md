@@ -1,6 +1,7 @@
 This repository contains an Excel-based **Sales Analysis** Dashboard that provides insights into sales, profit, and customer segmentation across various dimensions. The analysis includes key performance metrics that help in understanding business trends and opportunities for growth.
 
 **Overview**
+
 The dashboard offers a comprehensive view of sales and profit across different customer segments, product categories, and geographic locations. It presents data visualizations and KPIs that aid in identifying patterns and trends within the sales dataset.
 
 **Key Insights**
@@ -43,5 +44,6 @@ March: -16.68%
 April: +43.48%
 May: -21.36%
 June: +15.92%
+
 **Conclusion**
 This sales analysis dashboard provides valuable insights into customer behavior, product performance, and regional sales trends. It serves as a powerful tool for data-driven decision-making and identifying strategies to enhance sales performance.
