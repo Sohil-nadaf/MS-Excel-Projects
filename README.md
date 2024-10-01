@@ -29,10 +29,14 @@ Highest Profit Percentage: Small Business (29.14%)
 
 Total Quantity Ordered by Segment:
 
-  Consumer: 5,238
-  Corporate: 8,431
-  Home Office: 6,271
-Small Business: 5,328
+    Consumer: 5,238
+  
+    Corporate: 8,431
+  
+    Home Office: 6,271
+  
+    Small Business: 5,328
+
 5. State-wise Sales Performance
 Top States by Sales:
 California: $288,311
