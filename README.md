@@ -1,33 +1,47 @@
-**Retail Sales Analysis Project**
+This repository contains an Excel-based **Sales Analysis** Dashboard that provides insights into sales, profit, and customer segmentation across various dimensions. The analysis includes key performance metrics that help in understanding business trends and opportunities for growth.
 
 **Overview**
-
-This project provides an analysis of sales data segmented by customer segments, states, product categories, and time periods. The objective was to derive actionable insights that could enhance sales performance and profitability. The analysis was performed using Microsoft Excel, leveraging pivot tables for summarizing data and key metrics.
+The dashboard offers a comprehensive view of sales and profit across different customer segments, product categories, and geographic locations. It presents data visualizations and KPIs that aid in identifying patterns and trends within the sales dataset.
 
 **Key Insights**
-- Corporate segment leads with $203,913 in sales.
-- California is the top-performing state with $288,311 in sales.
-- The Furniture category has the highest profit of $53,546.
-- Significant monthly fluctuations were observed with a growth of 111.31% in February and a decline of 55.50% in March.
-
-**Objectives**
-- Analyze sales performance across customer segments.
-- Identify the most profitable product categories and states.
-- Examine monthly sales growth and recommend improvements.
-
-**Tools Used**
-- Microsoft Excel (Pivot Tables, Charts)
-
-**Results**
-- Total Sales: $526,777
-- Total Profit: $75,845
-- Quantity Sold: 6,617 units
-- Profit Margin: -14%
-
-**How to Use This Project**
-1. Open the provided Excel file.
-2. Explore the pivot tables to view data summaries by segment, state, and product category.
-3. Use the insights and recommendations to guide business decisions.
-
+1. Overall Metrics
+Total Profit: $224,078
+Total Sales: $1,924,338
+Total Discount Applied: 96
+Total Quantity Ordered: 25,268
+Average Sales per Transaction: $986
+Total Transactions: 1,952
+Profit Percentage: 12%
+2. Customer Segment Analysis
+Top Segment by Sales: Corporate ($657,785)
+Highest Profit Percentage: Small Business (29.14%)
+Total Quantity Ordered by Segment:
+Consumer: 5,238
+Corporate: 8,431
+Home Office: 6,271
+Small Business: 5,328
+3. State-wise Sales Performance
+Top States by Sales:
+California: $288,311
+New York: $223,930
+Illinois: $98,971
+Total Sales across all states: $1,142,570
+4. Product Category Analysis
+Highest Sales: Technology ($712,265)
+Highest Profit: Office Supplies ($89,525)
+Overall Product Category Contribution:
+Office Supplies: $551,369 Sales, $89,525 Profit
+Furniture: $660,704 Sales, $59,249 Profit
+Technology: $712,265 Sales, $75,303 Profit
+5. Month-over-Month Sales and Profit Changes
+Highest Sales Growth: April (43.48%)
+Biggest Drop in Sales: March (-16.68%)
+Overall Sales Trend:
+January: $0
+February: +18.68%
+March: -16.68%
+April: +43.48%
+May: -21.36%
+June: +15.92%
 **Conclusion**
-The analysis highlights strong performance in Corporate and Consumer segments, but also reveals growth opportunities in states like Nevada and New Mexico, as well as the need to stabilize monthly sales growth. Targeted marketing and product pricing strategies could improve overall profitability.
+This sales analysis dashboard provides valuable insights into customer behavior, product performance, and regional sales trends. It serves as a powerful tool for data-driven decision-making and identifying strategies to enhance sales performance.
